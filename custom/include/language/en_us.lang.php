@@ -49,11 +49,11 @@ $GLOBALS['app_list_strings']['document_category_dom']=array (
 );
 $GLOBALS['app_list_strings']['contact_type_list']=array (
   '' => '',
-  'Employee' => 'Employee',
-  'Intern' => 'Intern',
-  'Client_Contact' => 'Client Contact',
-  'Freelancer' => 'Freelancer',
-  'Contractor' => 'Contractor',
+  'Employee' => 'Family',
+  'Intern' => 'Friends',
+  'Client_Contact' => 'Relatives',
+  'Freelancer' => 'Other',
+  // 'Contractor' => 'Contractor',
 );
 
 $GLOBALS['app_list_strings']['expense_type_list']=array (
